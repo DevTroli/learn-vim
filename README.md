@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="https://github.com/DevTroli/learn-vim/blob/main/README.md"> 🇺🇸 English</a></td></tr>
  <tr><td><a href="https://github.com/DevTroli/learn-vim/blob/main/README-BR.md"> 🇧🇷 Português</a></td></tr>
+ <tr><td><a href="https://github.com/DevTroli/learn-vim/blob/main/README.md"> 🇺🇸 English</a></td></tr>
 </table>
 
 # 🚀 Vim Mastery Gym
